@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+<a href="InvestmentExchangeCommunity.html">Investment Exchange Community.html</a><br>
 
 You can use the [editor on GitHub](https://github.com/CaffreyAnran/FACT-System-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
