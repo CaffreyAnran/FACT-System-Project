@@ -5,6 +5,7 @@
 <a href="FinaicialProductTransactionTools.html">Finaicial Product Transaction Tools.html</a><br>
 <a href="IntelligentInformationAcquisitionandPushServices.html">Intelligent Information Acquisition and Push Services.html</a><br>
 <a href="IntelligentInvestmentForecastandPortfolioDesignSystem.html">Intelligent Investment Forecast and Portfolio Design System.html</a><br>
+<a href="Intelligent.html">Intelligent.html</a><br>
 
 You can use the [editor on GitHub](https://github.com/CaffreyAnran/FACT-System-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
