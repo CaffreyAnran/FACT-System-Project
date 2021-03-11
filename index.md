@@ -1,10 +1,10 @@
 ## Welcome to GitHub Pages
-<a href="InvestmentExchangeCommunity.html">Investment Exchange Community.html</a><br>
+<a href="InvestmentCommunity.html">Investment Exchange Community.html</a><br>
 <a href="DataScrapingTools.html">Data Scraping Tools.html</a><br>
 <a href="FinancialAnalyticsTools.html">Financial Analytics Tools.html</a><br>
-<a href="FinaicialProductTransactionTools.html">Finaicial Product Transaction Tools.html</a><br>
-<a href="IntelligentInformationAcquisitionandPushServices.html">Intelligent Information Acquisition and Push Services.html</a><br>
-<a href="IntelligentInvestmentForecastandPortfolioDesignSystem.html">Intelligent Investment Forecast and Portfolio Design System.html</a><br>
+<a href="TransactionTools.html">Finaicial Product Transaction Tools.html</a><br>
+<a href="InformationService.html">Intelligent Information Services.html</a><br>
+<a href="InvestmentDesign.html"> Investment and Portfolio Design System.html</a><br>
 <a href="SignIn.html">Sign In.html</a><br>
 <a href="CreateNewAccount.html">Create New Account.html</a><br>
 
